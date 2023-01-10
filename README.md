@@ -1,1 +1,1 @@
-# ToDoList
+I developed an interactive To Do List GUI where the user can input tasks and set info such as status, end date, priority, etc. The tasks can then be organized based on each of the categories outlined on the task section such as by end date, alphabetical order, status, etc. The GUI also includes an updating calendar and a motivational quote option when the user needs a boost of morale. ![ToDoListGUI](https://user-images.githubusercontent.com/121467771/211632432-08e3d0a4-be7c-47c6-8b39-e5ec9f47c83c.png)
